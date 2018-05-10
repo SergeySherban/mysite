@@ -1,0 +1,29 @@
+
+.add {
+    font-size: 180px;
+    height: 250px;
+	width: 250px;
+	background-color: lightgrey;
+    margin-bottom: 20px;
+}
+.container {
+    padding: 50px;
+}
+.rounded {
+    width: 400px;
+}
+
+.block{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    background: rgba(255,255,255, 0.7);
+    padding: 40px;
+    display: none;
+    text-align: center;
+}
+.rounded:hover .block{
+    display: block;
+}

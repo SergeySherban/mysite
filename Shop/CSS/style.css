@@ -1,0 +1,20 @@
+.carousel-control-next-icon {
+    width: 40px;
+    height: 40px;
+}
+.carousel-control-prev-icon {
+    width: 40px;
+    height: 40px;
+}
+.d-block {
+    margin: 0 auto;
+}
+.container-fluid {
+    background: #c1f1fb;
+}
+.modal-body .container-fluid {
+    background: white;
+}
+.container {
+    margin: 0 auto;
+}
